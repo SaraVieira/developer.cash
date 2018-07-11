@@ -1,0 +1,1212 @@
+[
+  {
+    "country": "United States",
+    "area": "Connecticut",
+    "rentIndex": 47.09
+  },
+  {
+    "country": "United States",
+    "area": "Maine",
+    "rentIndex": 47.09
+  },
+  {
+    "country": "United States",
+    "area": "Massachusetts",
+    "rentIndex": 78.41
+  },
+  {
+    "country": "United States",
+    "area": "New Hampshire",
+    "rentIndex": 47.09
+  },
+  {
+    "country": "United States",
+    "area": "Rhode Island",
+    "rentIndex": 47.09
+  },
+  {
+    "country": "United States",
+    "area": "Vermont",
+    "rentIndex": 47.09
+  },
+  {
+    "country": "United States",
+    "area": "New Jersey",
+    "rentIndex": 50.8
+  },
+  {
+    "country": "United States",
+    "area": "Everywhere else, New York",
+    "rentIndex": 50.8
+  },
+  {
+    "country": "United States",
+    "area": "NYC, New York",
+    "rentIndex": 100
+  },
+  {
+    "country": "United States",
+    "area": "Pennsylvania",
+    "rentIndex": 50.8
+  },
+  {
+    "country": "United States",
+    "area": "Indiana",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Michigan",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Ohio",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Wisconsin",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Chicago, Illinois",
+    "rentIndex": 57.1
+  },
+  {
+    "country": "United States",
+    "area": "Everywhere else, Illinois",
+    "rentIndex": 57.1
+  },
+  {
+    "country": "United States",
+    "area": "Iowa",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Nebraska",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Kansas",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "North Dakota",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Everywhere else, Minnesota",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Minneapolis, Minnesota",
+    "rentIndex": 56.63
+  },
+  {
+    "country": "United States",
+    "area": "South Dakota",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Missouri",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Delaware",
+    "rentIndex": 48.83
+  },
+  {
+    "country": "United States",
+    "area": "Washington DC",
+    "rentIndex": 78
+  },
+  {
+    "country": "United States",
+    "area": "Everywhere else, Florida",
+    "rentIndex": 48.83
+  },
+  {
+    "country": "United States",
+    "area": "Miami/Fort Lauderdale, Florida",
+    "rentIndex": 63.46
+  },
+  {
+    "country": "United States",
+    "area": "Georgia",
+    "rentIndex": 48.83
+  },
+  {
+    "country": "United States",
+    "area": "Maryland",
+    "rentIndex": 48.83
+  },
+  {
+    "country": "United States",
+    "area": "North Carolina",
+    "rentIndex": 48.83
+  },
+  {
+    "country": "United States",
+    "area": "South Carolina",
+    "rentIndex": 48.83
+  },
+  {
+    "country": "United States",
+    "area": "Virginia",
+    "rentIndex": 48.83
+  },
+  {
+    "country": "United States",
+    "area": "West Virginia",
+    "rentIndex": 48.83
+  },
+  {
+    "country": "United States",
+    "area": "Alabama",
+    "rentIndex": 46.63
+  },
+  {
+    "country": "United States",
+    "area": "Kentucky",
+    "rentIndex": 46.63
+  },
+  {
+    "country": "United States",
+    "area": "Mississippi",
+    "rentIndex": 46.63
+  },
+  {
+    "country": "United States",
+    "area": "Everywhere else, Tennessee",
+    "rentIndex": 46.63
+  },
+  {
+    "country": "United States",
+    "area": "Nashville, Tennessee",
+    "rentIndex": 46.63
+  },
+  {
+    "country": "United States",
+    "area": "Arkansas",
+    "rentIndex": 47.3
+  },
+  {
+    "country": "United States",
+    "area": "Louisiana",
+    "rentIndex": 47.3
+  },
+  {
+    "country": "United States",
+    "area": "Oklahoma",
+    "rentIndex": 47.3
+  },
+  {
+    "country": "United States",
+    "area": "Everywhere else, Texas",
+    "rentIndex": 47.3
+  },
+  {
+    "country": "United States",
+    "area": "Dallas, Texas",
+    "rentIndex": 47.3
+  },
+  {
+    "country": "United States",
+    "area": "Houston, Texas",
+    "rentIndex": 47.3
+  },
+  {
+    "country": "United States",
+    "area": "Austin, Texas",
+    "rentIndex": 51.84
+  },
+  {
+    "country": "United States",
+    "area": "Arizona",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Colorado",
+    "rentIndex": 54.96
+  },
+  {
+    "country": "United States",
+    "area": "Idaho",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "New Mexico",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Montana",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Salt Lake area, Utah",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Everywhere else, Utah",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Nevada",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Wyoming",
+    "rentIndex": 45
+  },
+  {
+    "country": "United States",
+    "area": "Alaska",
+    "rentIndex": 51.94
+  },
+  {
+    "country": "United States",
+    "area": "Everywhere else, California",
+    "rentIndex": 51.94
+  },
+  {
+    "country": "United States",
+    "area": "San Francisco, California",
+    "rentIndex": 126.3
+  },
+  {
+    "country": "United States",
+    "area": "Santa Barbara, California",
+    "rentIndex": 70.52
+  },
+  {
+    "country": "United States",
+    "area": "Los Angeles, California",
+    "rentIndex": 68
+  },
+  {
+    "country": "United States",
+    "area": "Santa Cruz, California",
+    "rentIndex": 64.7
+  },
+  {
+    "country": "United States",
+    "area": "San Diego, California",
+    "rentIndex": 61
+  },
+  {
+    "country": "United States",
+    "area": "Hawaii",
+    "rentIndex": 67.3
+  },
+  {
+    "country": "United States",
+    "area": "Oregon",
+    "rentIndex": 51.94
+  },
+  {
+    "country": "United States",
+    "area": "Everywhere else, Washington",
+    "rentIndex": 51.94
+  },
+  {
+    "country": "United States",
+    "area": "Seattle, Washington",
+    "rentIndex": 67.97
+  },
+  {
+    "country": "Canada",
+    "area": "Alberta",
+    "rentIndex": 36.5
+  },
+  {
+    "country": "Canada",
+    "area": "Vancouver, British Columbia",
+    "rentIndex": 49.07
+  },
+  {
+    "country": "Canada",
+    "area": "Everywhere else, British Columbia",
+    "rentIndex": 35.37
+  },
+  {
+    "country": "Canada",
+    "area": "Manitoba",
+    "rentIndex": 27
+  },
+  {
+    "country": "Canada",
+    "area": "New Brunswick",
+    "rentIndex": 18.62
+  },
+  {
+    "country": "Canada",
+    "area": "Newfoundland and Labrador",
+    "rentIndex": 21.85
+  },
+  {
+    "country": "Canada",
+    "area": "Northwest Territories",
+    "rentIndex": 17.78
+  },
+  {
+    "country": "Canada",
+    "area": "Nova Scotia",
+    "rentIndex": 28.2
+  },
+  {
+    "country": "Canada",
+    "area": "Nunavut",
+    "rentIndex": 17.78
+  },
+  {
+    "country": "Canada",
+    "area": "Toronto, Ontario",
+    "rentIndex": 42.64
+  },
+  {
+    "country": "Canada",
+    "area": "Everywhere else, Ontario",
+    "rentIndex": 31.28
+  },
+  {
+    "country": "Canada",
+    "area": "Prince Edward Island",
+    "rentIndex": 17.78
+  },
+  {
+    "country": "Canada",
+    "area": "Quebec",
+    "rentIndex": 25.7
+  },
+  {
+    "country": "Canada",
+    "area": "Saskatchewan",
+    "rentIndex": 28.44
+  },
+  {
+    "country": "Canada",
+    "area": "Yukon",
+    "rentIndex": 17.78
+  },
+  {
+    "country": "Bermuda",
+    "area": "All",
+    "rentIndex": 117.8
+  },
+  {
+    "country": "Bahamas",
+    "area": "All",
+    "rentIndex": 37.4
+  },
+  {
+    "country": "Dominican Republic",
+    "area": "All",
+    "rentIndex": 14.6
+  },
+  {
+    "country": "Jamaica",
+    "area": "All",
+    "rentIndex": 14.6
+  },
+  {
+    "country": "Puerto Rico",
+    "area": "All",
+    "rentIndex": 28.12
+  },
+  {
+    "country": "El Salvador",
+    "area": "All",
+    "rentIndex": 17.9
+  },
+  {
+    "country": "Guatemala",
+    "area": "All",
+    "rentIndex": 17.9
+  },
+  {
+    "country": "Mexico",
+    "area": "All",
+    "rentIndex": 17.9
+  },
+  {
+    "country": "Costa Rica",
+    "area": "All",
+    "rentIndex": 21.2
+  },
+  {
+    "country": "Nicaragua",
+    "area": "All",
+    "rentIndex": 21.2
+  },
+  {
+    "country": "Panama",
+    "area": "All",
+    "rentIndex": 38.3
+  },
+  {
+    "country": "Venezuela",
+    "area": "All",
+    "rentIndex": 18.9
+  },
+  {
+    "country": "Paraguay",
+    "area": "All",
+    "rentIndex": 18.9
+  },
+  {
+    "country": "Colombia",
+    "area": "All",
+    "rentIndex": 18.9
+  },
+  {
+    "country": "Ecuador",
+    "area": "All",
+    "rentIndex": 18.9
+  },
+  {
+    "country": "Argentina",
+    "area": "All",
+    "rentIndex": 18.9
+  },
+  {
+    "country": "Chile",
+    "area": "All",
+    "rentIndex": 18.9
+  },
+  {
+    "country": "Peru",
+    "area": "All",
+    "rentIndex": 18.9
+  },
+  {
+    "country": "Uruguay",
+    "area": "All",
+    "rentIndex": 20.09
+  },
+  {
+    "country": "Brazil",
+    "area": "Sao Paulo",
+    "rentIndex": 22.2
+  },
+  {
+    "country": "Brazil",
+    "area": "Rio de Janerio",
+    "rentIndex": 23.8
+  },
+  {
+    "country": "Brazil",
+    "area": "Everywhere else",
+    "rentIndex": 18.9
+  },
+  {
+    "country": "Algeria",
+    "area": "All",
+    "rentIndex": 10.3
+  },
+  {
+    "country": "Egypt",
+    "area": "All",
+    "rentIndex": 10.3
+  },
+  {
+    "country": "Libya",
+    "area": "All",
+    "rentIndex": 20.4
+  },
+  {
+    "country": "Morocco",
+    "area": "All",
+    "rentIndex": 16.3
+  },
+  {
+    "country": "Tunisia",
+    "area": "All",
+    "rentIndex": 10.3
+  },
+  {
+    "country": "Uganda",
+    "area": "All",
+    "rentIndex": 15.8
+  },
+  {
+    "country": "Rwanda",
+    "area": "All",
+    "rentIndex": 15.8
+  },
+  {
+    "country": "Zimbabwe",
+    "area": "All",
+    "rentIndex": 15.8
+  },
+  {
+    "country": "Kenya",
+    "area": "All",
+    "rentIndex": 18.7
+  },
+  {
+    "country": "Ethiopia",
+    "area": "All",
+    "rentIndex": 23
+  },
+  {
+    "country": "Tanzania",
+    "area": "All",
+    "rentIndex": 25.33
+  },
+  {
+    "country": "Angola",
+    "area": "All",
+    "rentIndex": 162.1
+  },
+  {
+    "country": "Namibia",
+    "area": "All",
+    "rentIndex": 20.7
+  },
+  {
+    "country": "Ghana",
+    "area": "All",
+    "rentIndex": 46.7
+  },
+  {
+    "country": "South Africa",
+    "area": "Everywhere else",
+    "rentIndex": 19.89
+  },
+  {
+    "country": "South Africa",
+    "area": "Cape Town",
+    "rentIndex": 27.06
+  },
+  {
+    "country": "Nigeria",
+    "area": "All",
+    "rentIndex": 21.2
+  },
+  {
+    "country": "Kazakhstan",
+    "area": "All",
+    "rentIndex": 16.2
+  },
+  {
+    "country": "Uzbekistan",
+    "area": "All",
+    "rentIndex": 16.2
+  },
+  {
+    "country": "China",
+    "area": "All",
+    "rentIndex": 37.81
+  },
+  {
+    "country": "Hong Kong",
+    "area": "All",
+    "rentIndex": 82.67
+  },
+  {
+    "country": "South Korea",
+    "area": "All",
+    "rentIndex": 33.41
+  },
+  {
+    "country": "Japan",
+    "area": "All",
+    "rentIndex": 47.3
+  },
+  {
+    "country": "Mongolia",
+    "area": "All",
+    "rentIndex": 21.5
+  },
+  {
+    "country": "Taiwan",
+    "area": "All",
+    "rentIndex": 21.5
+  },
+  {
+    "country": "Brunei Darussalam",
+    "area": "All",
+    "rentIndex": 18.7
+  },
+  {
+    "country": "Cambodia",
+    "area": "All",
+    "rentIndex": 21.7
+  },
+  {
+    "country": "Singapore",
+    "area": "All",
+    "rentIndex": 81.2
+  },
+  {
+    "country": "Vietnam",
+    "area": "All",
+    "rentIndex": 19.4
+  },
+  {
+    "country": "Nepal",
+    "area": "All",
+    "rentIndex": 10.3
+  },
+  {
+    "country": "Bangladesh",
+    "area": "All",
+    "rentIndex": 10.3
+  },
+  {
+    "country": "Iran",
+    "area": "All",
+    "rentIndex": 22.4
+  },
+  {
+    "country": "Maldives",
+    "area": "All",
+    "rentIndex": 32.9
+  },
+  {
+    "country": "Pakistan",
+    "area": "All",
+    "rentIndex": 10.3
+  },
+  {
+    "country": "Sri Lanka",
+    "area": "All",
+    "rentIndex": 11.7
+  },
+  {
+    "country": "Armenia",
+    "area": "All",
+    "rentIndex": 15.34
+  },
+  {
+    "country": "Georgia",
+    "area": "All",
+    "rentIndex": 15.34
+  },
+  {
+    "country": "Azerbaijan",
+    "area": "All",
+    "rentIndex": 15.34
+  },
+  {
+    "country": "Cyprus",
+    "area": "All",
+    "rentIndex": 15.34
+  },
+  {
+    "country": "Jordan",
+    "area": "All",
+    "rentIndex": 15.34
+  },
+  {
+    "country": "Indonesia",
+    "area": "Everywhere else",
+    "rentIndex": 12.09
+  },
+  {
+    "country": "Indonesia",
+    "area": "Jakarta",
+    "rentIndex": 25.7
+  },
+  {
+    "country": "Malaysia",
+    "area": "Kuala Lumpur",
+    "rentIndex": 18.7
+  },
+  {
+    "country": "Malaysia",
+    "area": "Everywhere else",
+    "rentIndex": 12.09
+  },
+  {
+    "country": "Philippines",
+    "area": "Makati/Manila",
+    "rentIndex": 32.5
+  },
+  {
+    "country": "Philippines",
+    "area": "Everywhere else",
+    "rentIndex": 12.09
+  },
+  {
+    "country": "Thailand",
+    "area": "Bangkok",
+    "rentIndex": 25.2
+  },
+  {
+    "country": "Thailand",
+    "area": "Everywhere else",
+    "rentIndex": 17.6
+  },
+  {
+    "country": "India",
+    "area": "Mumbai",
+    "rentIndex": 22.66
+  },
+  {
+    "country": "India",
+    "area": "Everywhere else",
+    "rentIndex": 10.3
+  },
+  {
+    "country": "Saudi Arabia",
+    "area": "All",
+    "rentIndex": 17
+  },
+  {
+    "country": "Turkey",
+    "area": "Istanbul",
+    "rentIndex": 17.4
+  },
+  {
+    "country": "Turkey",
+    "area": "Limassol",
+    "rentIndex": 20.2
+  },
+  {
+    "country": "Turkey",
+    "area": "Everywhere else",
+    "rentIndex": 15.34
+  },
+  {
+    "country": "Iraq",
+    "area": "All",
+    "rentIndex": 21.9
+  },
+  {
+    "country": "Lebanon",
+    "area": "All",
+    "rentIndex": 40.6
+  },
+  {
+    "country": "Israel",
+    "area": "All",
+    "rentIndex": 49.51
+  },
+  {
+    "country": "Oman",
+    "area": "All",
+    "rentIndex": 39.2
+  },
+  {
+    "country": "Bahrain",
+    "area": "All",
+    "rentIndex": 39.2
+  },
+  {
+    "country": "Bulgaria",
+    "area": "All",
+    "rentIndex": 13.59
+  },
+  {
+    "country": "Moldova",
+    "area": "All",
+    "rentIndex": 13.59
+  },
+  {
+    "country": "Romania",
+    "area": "All",
+    "rentIndex": 13.59
+  },
+  {
+    "country": "Russia",
+    "area": "Everywhere else",
+    "rentIndex": 12.32
+  },
+  {
+    "country": "Russia",
+    "area": "Moscow",
+    "rentIndex": 32.41
+  },
+  {
+    "country": "Russia",
+    "area": "Saint Petersburg",
+    "rentIndex": 19.33
+  },
+  {
+    "country": "Belarus",
+    "area": "All",
+    "rentIndex": 13.59
+  },
+  {
+    "country": "Ukraine",
+    "area": "All",
+    "rentIndex": 13.59
+  },
+  {
+    "country": "Slovakia",
+    "area": "All",
+    "rentIndex": 20.8
+  },
+  {
+    "country": "Hungary",
+    "area": "All",
+    "rentIndex": 16.13
+  },
+  {
+    "country": "Poland",
+    "area": "All",
+    "rentIndex": 20.42
+  },
+  {
+    "country": "Iceland",
+    "area": "All",
+    "rentIndex": 55.9
+  },
+  {
+    "country": "Norway",
+    "area": "All",
+    "rentIndex": 47.99
+  },
+  {
+    "country": "Latvia",
+    "area": "All",
+    "rentIndex": 16.6
+  },
+  {
+    "country": "Lithuania",
+    "area": "All",
+    "rentIndex": 16.6
+  },
+  {
+    "country": "Estonia",
+    "area": "All",
+    "rentIndex": 16.6
+  },
+  {
+    "country": "Albania",
+    "area": "All",
+    "rentIndex": 13.49
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "area": "All",
+    "rentIndex": 13.49
+  },
+  {
+    "country": "Croatia",
+    "area": "All",
+    "rentIndex": 13.49
+  },
+  {
+    "country": "Greece",
+    "area": "All",
+    "rentIndex": 13.49
+  },
+  {
+    "country": "Malta",
+    "area": "All",
+    "rentIndex": 30.56
+  },
+  {
+    "country": "Montenegro",
+    "area": "All",
+    "rentIndex": 13.49
+  },
+  {
+    "country": "Czech Republic",
+    "area": "Everywhere else",
+    "rentIndex": 13.59
+  },
+  {
+    "country": "Czech Republic",
+    "area": "Prague",
+    "rentIndex": 22.19
+  },
+  {
+    "country": "Czech Republic",
+    "area": "Brno",
+    "rentIndex": 16.69
+  },
+  {
+    "country": "Denmark",
+    "area": "Everywhere else",
+    "rentIndex": 34.2
+  },
+  {
+    "country": "Denmark",
+    "area": "Copenhagen",
+    "rentIndex": 49.61
+  },
+  {
+    "country": "Finland",
+    "area": "Everywhere else",
+    "rentIndex": 26.35
+  },
+  {
+    "country": "Finland",
+    "area": "Helsinki",
+    "rentIndex": 39.8
+  },
+  {
+    "country": "Ireland",
+    "area": "Everywhere else",
+    "rentIndex": 36.96
+  },
+  {
+    "country": "Ireland",
+    "area": "Dublin",
+    "rentIndex": 54.65
+  },
+  {
+    "country": "Sweden",
+    "area": "Stockholm",
+    "rentIndex": 42.98
+  },
+  {
+    "country": "Sweden",
+    "area": "Everywhere else",
+    "rentIndex": 29.42
+  },
+  {
+    "country": "United Kingdom",
+    "area": "Northern Ireland",
+    "rentIndex": 23.9
+  },
+  {
+    "country": "United Kingdom",
+    "area": "Wales",
+    "rentIndex": 25.85
+  },
+  {
+    "country": "United Kingdom",
+    "area": "London, England",
+    "rentIndex": 79
+  },
+  {
+    "country": "United Kingdom",
+    "area": "Bristol, England",
+    "rentIndex": 38.9
+  },
+  {
+    "country": "United Kingdom",
+    "area": "Everywhere else, England",
+    "rentIndex": 31.4
+  },
+  {
+    "country": "United Kingdom",
+    "area": "Scotland",
+    "rentIndex": 32.71
+  },
+  {
+    "country": "Italy",
+    "area": "Everywhere else",
+    "rentIndex": 21.85
+  },
+  {
+    "country": "Italy",
+    "area": "Rome",
+    "rentIndex": 40.21
+  },
+  {
+    "country": "Italy",
+    "area": "Milan",
+    "rentIndex": 40.06
+  },
+  {
+    "country": "Italy",
+    "area": "Florence",
+    "rentIndex": 28.68
+  },
+  {
+    "country": "Portugal",
+    "area": "Everywhere else",
+    "rentIndex": 18.14
+  },
+  {
+    "country": "Portugal",
+    "area": "Lisbon",
+    "rentIndex": 25.08
+  },
+  {
+    "country": "Serbia",
+    "area": "All",
+    "rentIndex": 13.49
+  },
+  {
+    "country": "Slovenia",
+    "area": "All",
+    "rentIndex": 18.75
+  },
+  {
+    "country": "Macedonia",
+    "area": "All",
+    "rentIndex": 13.49
+  },
+  {
+    "country": "Kosovo",
+    "area": "All",
+    "rentIndex": 13.49
+  },
+  {
+    "country": "Austria",
+    "area": "All",
+    "rentIndex": 33.1
+  },
+  {
+    "country": "Belgium",
+    "area": "All",
+    "rentIndex": 34.19
+  },
+  {
+    "country": "Luxembourg",
+    "area": "All",
+    "rentIndex": 54.71
+  },
+  {
+    "country": "Spain",
+    "area": "Everywhere else",
+    "rentIndex": 21.48
+  },
+  {
+    "country": "Spain",
+    "area": "Madrid",
+    "rentIndex": 30.6
+  },
+  {
+    "country": "Spain",
+    "area": "Barcelona",
+    "rentIndex": 30
+  },
+  {
+    "country": "Spain",
+    "area": "Bilbao",
+    "rentIndex": 28.78
+  },
+  {
+    "country": "France",
+    "area": "Paris",
+    "rentIndex": 46.8
+  },
+  {
+    "country": "France",
+    "area": "Everywhere else",
+    "rentIndex": 25.7
+  },
+  {
+    "country": "Germany",
+    "area": "Everywhere else",
+    "rentIndex": 19.77
+  },
+  {
+    "country": "Germany",
+    "area": "Munich",
+    "rentIndex": 42.45
+  },
+  {
+    "country": "Germany",
+    "area": "Frankfurt/Dusseldorf",
+    "rentIndex": 36.38
+  },
+  {
+    "country": "Germany",
+    "area": "Hamburg",
+    "rentIndex": 34.2
+  },
+  {
+    "country": "Germany",
+    "area": "Berlin",
+    "rentIndex": 30.47
+  },
+  {
+    "country": "Netherlands",
+    "area": "Everywhere else",
+    "rentIndex": 29.99
+  },
+  {
+    "country": "Netherlands",
+    "area": "Amsterdam",
+    "rentIndex": 51.2
+  },
+  {
+    "country": "Switzerland",
+    "area": "Everywhere else",
+    "rentIndex": 51.73
+  },
+  {
+    "country": "Switzerland",
+    "area": "Geneva",
+    "rentIndex": 79.6
+  },
+  {
+    "country": "Switzerland",
+    "area": "Zug",
+    "rentIndex": 67.39
+  },
+  {
+    "country": "Australia",
+    "area": "Western Australia",
+    "rentIndex": 43.6
+  },
+  {
+    "country": "Australia",
+    "area": "Everywhere else, Queensland",
+    "rentIndex": 30.3
+  },
+  {
+    "country": "Australia",
+    "area": "Brisbane, Queensland",
+    "rentIndex": 47.7
+  },
+  {
+    "country": "Australia",
+    "area": "Northern Territory",
+    "rentIndex": 45.41
+  },
+  {
+    "country": "Australia",
+    "area": "South Australia",
+    "rentIndex": 35.5
+  },
+  {
+    "country": "Australia",
+    "area": "Everywhere else, New South Wales",
+    "rentIndex": 41.01
+  },
+  {
+    "country": "Australia",
+    "area": "Sydney, New South Wales",
+    "rentIndex": 66.35
+  },
+  {
+    "country": "Australia",
+    "area": "Victoria",
+    "rentIndex": 44.2
+  },
+  {
+    "country": "Australia",
+    "area": "Tasmania",
+    "rentIndex": 30.7
+  },
+  {
+    "country": "Australia",
+    "area": "Australian Capital Territory",
+    "rentIndex": 45.5
+  },
+  {
+    "country": "New Zealand",
+    "area": "Everywhere else",
+    "rentIndex": 37.3
+  },
+  {
+    "country": "New Zealand",
+    "area": "Aukland",
+    "rentIndex": 45
+  }
+]

@@ -1,0 +1,8 @@
+query allSalaries {
+  salaries {
+    salary
+    country
+    city
+    position
+  }
+}

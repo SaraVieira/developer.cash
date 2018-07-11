@@ -1,10 +1,12 @@
 <template>
   <div id="app">
-    <div id="nav">
+    <div class="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/salaries">Salaries</router-link>
     </div>
-    <router-view/>
+    <div class="app">
+      <router-view/>
+    </div>
   </div>
 </template>
 
@@ -13,8 +15,16 @@
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+.nav {
+  text-align: center;
+}
+
+.app {
+  max-width: 80%;
+  margin: auto;
 }
 </style>
